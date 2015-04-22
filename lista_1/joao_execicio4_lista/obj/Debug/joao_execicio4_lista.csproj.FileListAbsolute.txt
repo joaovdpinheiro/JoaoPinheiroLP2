@@ -1,0 +1,6 @@
+c:\users\amanda\documents\visual studio 2013\Projects\joao_execicio4_lista\joao_execicio4_lista\bin\Debug\joao_execicio4_lista.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\joao_execicio4_lista\joao_execicio4_lista\bin\Debug\joao_execicio4_lista.exe
+c:\users\amanda\documents\visual studio 2013\Projects\joao_execicio4_lista\joao_execicio4_lista\bin\Debug\joao_execicio4_lista.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\joao_execicio4_lista\joao_execicio4_lista\obj\Debug\joao_execicio4_lista.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\joao_execicio4_lista\joao_execicio4_lista\obj\Debug\joao_execicio4_lista.exe
+c:\users\amanda\documents\visual studio 2013\Projects\joao_execicio4_lista\joao_execicio4_lista\obj\Debug\joao_execicio4_lista.pdb

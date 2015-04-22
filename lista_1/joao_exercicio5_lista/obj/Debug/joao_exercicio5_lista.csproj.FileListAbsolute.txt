@@ -1,0 +1,6 @@
+c:\users\amanda\documents\visual studio 2013\Projects\joao_exercicio5_lista\joao_exercicio5_lista\bin\Debug\joao_exercicio5_lista.exe.config
+c:\users\amanda\documents\visual studio 2013\Projects\joao_exercicio5_lista\joao_exercicio5_lista\bin\Debug\joao_exercicio5_lista.exe
+c:\users\amanda\documents\visual studio 2013\Projects\joao_exercicio5_lista\joao_exercicio5_lista\bin\Debug\joao_exercicio5_lista.pdb
+c:\users\amanda\documents\visual studio 2013\Projects\joao_exercicio5_lista\joao_exercicio5_lista\obj\Debug\joao_exercicio5_lista.csprojResolveAssemblyReference.cache
+c:\users\amanda\documents\visual studio 2013\Projects\joao_exercicio5_lista\joao_exercicio5_lista\obj\Debug\joao_exercicio5_lista.exe
+c:\users\amanda\documents\visual studio 2013\Projects\joao_exercicio5_lista\joao_exercicio5_lista\obj\Debug\joao_exercicio5_lista.pdb
